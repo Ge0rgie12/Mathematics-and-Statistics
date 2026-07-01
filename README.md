@@ -5,5 +5,5 @@ The Notebook includes a project that uses different clustering methods on a data
 The used data can be found at: 
 
 Files:
-* draft.ipynb - data preparation, experiments with different clustering methods
+* draft.ipynb - data preparation, experiments with different clustering methods (k-means, OPTICS, HAC)
 * final.ipynb - final analysis with one clustering method 
